@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authuender",
+        "uuid": 48584853,
+        "checksum": "bivweg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
